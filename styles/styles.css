@@ -1,3 +1,27 @@
 * {
 font-family: Tahoma,'Segoe UI', sans-serif;
+background-color: #D6CCA9;
+}
+
+.title{
+    background-color: #D2B48C;
+}
+
+.back-link{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+li {
+    line-height: 150%;
+}
+
+.ingredients li{
+    line-height: 180%;
+}
+
+#recipes li{
+    font-size: x-large;
+    font-weight: bold;
+    list-style-type:  square;
 }
